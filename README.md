@@ -25,7 +25,3 @@ A simple Sushi App built using Flutter as a practice project. This project was c
 - Flutter
 - Dart
 
-## Purpose
-
-This is a beginner practice project created to improve my Flutter development skills and gain hands-on experience with UI design and Flutter widgets.
->>>>>>> a09294a3c6f27ebeaf83464e5f8dc57692f170df
