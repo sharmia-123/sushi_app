@@ -15,6 +15,9 @@ A simple Sushi App built with Flutter as a practice project. It features a login
   <img width="250" src="https://github.com/user-attachments/assets/10225393-c875-4f46-9493-8365c61c3203" />
   <img width="250" src="https://github.com/user-attachments/assets/ed52f2c2-c60e-4d46-97ab-8fe4688a3449" />
 </p>
+<p align ="center">
+  <img width="250" src="https://github.com/user-attachments/assets/76af4279-066d-4e4d-af99-cf54e3fe38f8" />"
+</p>
 
 ## ✨ Features
 
