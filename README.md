@@ -6,11 +6,12 @@ A simple Sushi App built using Flutter as a practice project. This project was c
 ## Screenshots
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8013acfe-7d64-4a59-998a-c3f24d47c621" width="250" />
-  <img src="https://github.com/user-attachments/assets/79b5ef09-be70-448b-9584-1c2d64283ed5" width="250" />
-  <img src="https://github.com/user-attachments/assets/747c032b-58f9-4522-a7bb-f2cd3ccc5224" width="250" />
-  <img src="https://github.com/user-attachments/assets/55e10029-5e98-49cf-afb7-100ec36a21b3" width="250" />
-  <img src="https://github.com/user-attachments/assets/d8560e3e-f15c-43e6-897f-ba43d98679c0" width="250" />
+  <img width="250" src="https://github.com/user-attachments/assets/6fee6236-4233-4f9b-b376-45afeb564921" />
+  <img width="250" src="https://github.com/user-attachments/assets/5d95c370-31dc-4d38-83f7-b881a4a10310" />
+  <img width="250" src="https://github.com/user-attachments/assets/7b5f8425-2673-47ec-b643-1648bcc8e645" />
+  <img width="250" src="https://github.com/user-attachments/assets/506232c7-29b7-46bc-ac98-9b360add518d" />
+  <img width="250" src="https://github.com/user-attachments/assets/62a6fa59-a275-4398-ba01-4c314d92457e" />
+  <img width="250" src="https://github.com/user-attachments/assets/c937dae1-af2d-42b9-891e-32a45501ea0a" />
 </p>
 
 ## Features
